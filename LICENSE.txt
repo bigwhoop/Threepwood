@@ -1,4 +1,4 @@
-Copyright (c) 2009, Philippe Gerber
+Copyright (c) 2010, Philippe Gerber
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without modification,

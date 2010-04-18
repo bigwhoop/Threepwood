@@ -15,9 +15,9 @@
  * @category   Threepwood
  * @package    Core
  * @author     Philippe Gerber <philippe@bigwhoop.ch>
- * @copyright  Copyright (c) 2009 Philippe Gerber
+ * @copyright  Copyright (c) 2010 Philippe Gerber
  * @license    http://threepwood.wolowizard.is-a-geek.org/licence     New BSD License
- * @version    $Id: Flagship.php 74 2009-09-25 11:26:42Z phil $
+
  */
 
 namespace Threepwood;
@@ -59,7 +59,7 @@ const HTTP_DELETE = 'DELETE';
  * @category   Threepwood
  * @package    Core
  * @author     Philippe Gerber <philippe@bigwhoop.ch>
- * @copyright  Copyright (c) 2009 Philippe Gerber
+ * @copyright  Copyright (c) 2010 Philippe Gerber
  * @license    http://threepwood.wolowizard.is-a-geek.org/licence     New BSD License
  */
 class Flagship extends Base\Singleton

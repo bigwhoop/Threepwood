@@ -15,9 +15,8 @@
  * @category   Threepwood
  * @package    Build
  * @author     Philippe Gerber <philippe@bigwhoop.ch>
- * @copyright  Copyright (c) 2009 Philippe Gerber
+ * @copyright  Copyright (c) 2010 Philippe Gerber
  * @license    http://threepwood.wolowizard.is-a-geek.org/licence     New BSD License
- * @version    $Id: build.php 73 2009-09-24 18:54:26Z phil $
  */
 
 $srcDir   = __DIR__ . '/../src';

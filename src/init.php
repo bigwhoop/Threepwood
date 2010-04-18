@@ -15,9 +15,9 @@
  * @category   Threepwood
  * @package    Core
  * @author     Philippe Gerber <philippe@bigwhoop.ch>
- * @copyright  Copyright (c) 2009 Philippe Gerber
+ * @copyright  Copyright (c) 2010 Philippe Gerber
  * @license    http://threepwood.wolowizard.is-a-geek.org/licence     New BSD License
- * @version    $Id: init.php 72 2009-09-24 18:51:27Z phil $
+
  */
 
 require_once __DIR__ . '/Threepwood/Flagship.php';

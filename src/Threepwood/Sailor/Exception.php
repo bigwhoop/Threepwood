@@ -16,9 +16,9 @@
  * @package    Core
  * @subpackage Sailor
  * @author     Philippe Gerber <philippe@bigwhoop.ch>
- * @copyright  Copyright (c) 2009 Philippe Gerber
+ * @copyright  Copyright (c) 2010 Philippe Gerber
  * @license    http://threepwood.wolowizard.is-a-geek.org/licence     New BSD License
- * @version    $Id: Exception.php 72 2009-09-24 18:51:27Z phil $
+
  */
 
 namespace Threepwood\Sailor;
@@ -31,7 +31,7 @@ namespace Threepwood\Sailor;
  * @package    Core
  * @subpackage Sailor
  * @author     Philippe Gerber <philippe@bigwhoop.ch>
- * @copyright  Copyright (c) 2009 Philippe Gerber
+ * @copyright  Copyright (c) 2010 Philippe Gerber
  * @license    http://threepwood.wolowizard.is-a-geek.org/licence     New BSD License
  */
 class Exception extends \Exception
